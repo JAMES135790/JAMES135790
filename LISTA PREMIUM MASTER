@@ -1,4 +1,3 @@
-
 #EXTM3U
 #EXTINF:-1, STAR CHANNEL
 http://kstv.xyz:8080/Najera/1234/46597
@@ -17,11 +16,11 @@ http://kstv.xyz:8080/Najera/1234/46600
 
 #EXTM3U
 #EXTINF:-1, STAR CINEMA 
-http://50.7.238.58:128/budTV/3232/3319_.m3u8
+http://kstv.xyz:8080/Najera/1234/46611
 
 #EXTM3U
 #EXTINF:-1, STAR COMEDY
-http://172.106.167.186:128/budTV/3232/3157_.m3u8
+http://kstv.xyz:8080/Najera/1234/46613
 
 #EXTM3U
 #EXTINF:-1, STAR FUN
@@ -49,7 +48,7 @@ http://kstv.xyz:8080/Najera/1234/46633
 
 #EXTM3U
 #EXTINF:-1, HBO MUNDI
-http://50.7.238.58:128/budTV/3232/3324_.m3u8
+
 
 #EXTM3U
 #EXTINF:-1, HBO XTREME
@@ -61,11 +60,11 @@ http://kstv.xyz:8080/Najera/1234/46636
 
 #EXTM3U
 #EXTINF:-1, HBO SIGNATURE
-http://50.7.238.58:128/budTV/3232/3325_.m3u8
+http://kstv.xyz:8080/Najera/1234/46638
 
 #EXTM3U
 #EXTINF:-1, HBO POP
-http://172.106.167.186:128/budTV/3232/3159_.m3u8
+
 
 #EXTM3U
 #EXTINF:-1, GOLDEN
@@ -73,11 +72,11 @@ http://kstv.xyz:8080/Najera/1234/46624
 
 #EXTM3U
 #EXTINF:-1, GOLDEN EDGE
-http://172.106.167.186:128/budTV/3232/3146_.m3u8
+http://kstv.xyz:8080/Najera/1234/46625
 
 #EXTM3U
 #EXTINF:-1, GOLDEN PLUS
-http://209.205.221.74:128/budTV/3232/1473_.m3u8
+http://kstv.xyz:8080/Najera/1234/46626
 
 #EXTM3U
 #EXTINF:-1, GOLDEN PREMIER
